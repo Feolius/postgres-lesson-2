@@ -23,3 +23,5 @@
 Лекция 7: https://docs.google.com/presentation/d/1TUyCo0HZelhjaY7Vk0nSvoFz10a-dlfO6U12B_y5lME/edit?usp=sharing
 
 Практика 7: https://gist.github.com/Feolius/66e4d84b2acdf7804c94ff0f6caddc04
+
+Практика 8: https://gist.github.com/Feolius/920622e47ec5e4d913d0f5383c36b571
