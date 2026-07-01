@@ -25,3 +25,7 @@
 Практика 7: https://gist.github.com/Feolius/66e4d84b2acdf7804c94ff0f6caddc04
 
 Практика 8: https://gist.github.com/Feolius/920622e47ec5e4d913d0f5383c36b571
+
+Лекция 8 (занятие 9): https://docs.google.com/presentation/d/1ONpTnsO71XYI3gVmZIApgHayxB7K-FwJdbCtulxrcXc/edit?usp=sharing
+
+Практика 9: https://gist.github.com/Feolius/09c7e792af804ded8f24765f1ce39112
